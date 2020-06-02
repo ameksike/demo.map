@@ -15,6 +15,7 @@ Series of demonstration projects on the use of technologies to develop Geographi
 + [CLI: Shell scripts focused on Command Line Interface ](https://github.com/ameksike/demo.cli)
 + [Maps: Demo applications focused on Geographic Information Systems (GIS)](https://github.com/ameksike/demo.map)
 + [Service: Demo applications focused on create Services ](https://github.com/ameksike/demo.service)
++ [Prestashop: Contains source code related to developments focused on PrestaShop ](https://github.com/ameksike/demo.prestashop)
 
 ### Similar projects 
 + [Geotrygon: Geotrygon is a web geographic information system (GIS) software product ](https://github.com/ameksike/geotrygon)
